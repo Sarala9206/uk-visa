@@ -144,13 +144,6 @@ class TrainPipeline:
             return model_pusher_artifact
         except Exception as e:
             raise UKvisaException(e, sys)
-
-        
-
-    
-
-        
-
     
     def run_pipeline(self, ) -> None:
         """
