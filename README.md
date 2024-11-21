@@ -36,12 +36,12 @@ python app.py
 ## Workflow
 
 1. constant
-2. components/data_ingestion,transfrom,validation,evalution,pusher,trainer
-2. entity/config_entity
-3. artifact_entity
-4. conponent
-5. pipeline
-6. app.py / demo.py
+2. components
+3. config_entity
+4. artifact_entity
+5. conponent
+6. pipeline
+7. app.py / demo.py
 
 
 
