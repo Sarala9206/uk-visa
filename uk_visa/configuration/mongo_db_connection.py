@@ -1,6 +1,6 @@
 import sys
 
-from uk_visa.exception import USvisaException
+from uk_visa.exception import UKvisaException
 from uk_visa.logger import logging
 
 import os

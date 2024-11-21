@@ -21,6 +21,8 @@ conda create -n visa python=3.10.15 -y
 
 ```bash
 conda activate visa
+  or 
+source activate visa
 ```
 
 ```bash
@@ -31,15 +33,16 @@ pip install -r requirements.txt
 python app.py
 ```
 
-
 ## Workflow
 
 1. constant
-2. config_entity
+2. components/data_ingestion,transfrom,validation,evalution,pusher,trainer
+2. entity/config_entity
 3. artifact_entity
 4. conponent
 5. pipeline
 6. app.py / demo.py
+
 
 
 ### Export the  environment variable
